@@ -1,0 +1,24 @@
+{
+  "names": [
+    {
+      "myName": "Julie",
+      "age": 59
+    },
+    {
+      "myName": "Vince",
+      "age": 62
+    },
+    {
+      "myName": "Clare",
+      "age": 17
+    },
+    {
+      "myName": "Rebecca",
+      "age": 27
+    },
+    {
+      "myName": "Mary",
+      "age": 28
+    }
+  ]
+}

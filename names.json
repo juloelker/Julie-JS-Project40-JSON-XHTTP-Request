@@ -1,0 +1,47 @@
+[
+  {
+    "familyName": "Oelker",
+    "members": [
+      {
+        "role": "father",
+        "firstName": "Vincent",
+        "middleName": "Mark",
+        "suffix": "",
+        "birthdate": "01/18/1960"
+      },
+      {
+        "role": "mother",
+        "firstName": "Julia",
+        "middleName": "Therese",
+        "suffix": "",
+        "birthdate": "09/22/1962"
+      },
+      {
+        "role": "sister",
+        "firstName": "Clare",
+        "middleName": "Julia",
+        "suffix": "",
+        "birthdate": "08/11/2004"
+      }
+    ]
+  },
+  {
+    "familyName": "Wright",
+    "members": [
+      {
+        "role": "father",
+        "firstName": "Justin",
+        "middleName": "Thomas",
+        "suffix": "",
+        "birthdate": "02/19/1992"
+      },
+      {
+        "role": "mother",
+        "firstName": "Rebecca",
+        "middleName": "Ann",
+        "suffix": "",
+        "birthdate": "03/19/1995"
+      }
+    ]
+  }
+]
